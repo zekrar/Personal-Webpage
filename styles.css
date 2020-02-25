@@ -39,20 +39,20 @@ body {
 }
 
 .box h1{
-	font-size: 2em;
+	font-size: 25px;
 	letter-spacing: 0.312em;
 	font-weight: 100;
 }
 
 .box h2{
-	font-size: 1.250em;
-	letter-spacing: 3px;
+	font-size: 20px;
+	letter-spacing: 0.249em;
 	font-weight: 100;
 }
 
 .box h3{
-	font-size: 1em;
-	letter-spacing: 2px;
+	font-size: 15px;
+	letter-spacing: 0.186em;
 	font-weight: 100;
 }
 
@@ -60,20 +60,15 @@ body {
 	text-align: justify;
 }
 
-ul{
-	margin: 0;
-	padding: 0;
-}
-
 .box li{
 	display: inline-block;
-	margin: 6px;
+	margin: 0.375em;
 	list-style: none;
 }
 .box li a{
 	color: white;
 	text-decoration: none;
-	font-size: 60px;
+	font-size: 50px;
 	transition: all ease-in-out 250ms;
 }
 
@@ -89,7 +84,7 @@ ul{
 span {
 	font-size: 30px;
 	cursor: pointer;
-	padding-left: 5px;
+	padding-left: 0.312em;
 }
 
 #top-container {
