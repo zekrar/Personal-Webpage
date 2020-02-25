@@ -80,6 +80,11 @@ ul{
 	color:#b9b9b9;
 }
 
+ul{
+	margin: 0;
+	padding: 0;
+}
+
 span {
 	font-size: 30px;
 	cursor: pointer;
