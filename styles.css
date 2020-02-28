@@ -1,13 +1,13 @@
 /*
- *Default Colors:
- *#FC4445 Sidenav
- *#3FEEE6 Background
+ *Default Colors
+ *#FC4445
+ *#3FEEE6
  *#55BCC9
  *#97CAEF
- *#CAFAFE Hover
+ *#CAFAFE
  */
 
-html, body {
+/* html, body {
 	margin: 0;
 	padding: 0;
 }
@@ -145,4 +145,5 @@ span {
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
-}
+} */
+
