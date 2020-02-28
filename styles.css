@@ -1,10 +1,10 @@
 /*
  *Default Colors
- *#FC4445
- *#3FEEE6
- *#55BCC9
- *#97CAEF
- *#CAFAFE
+ *#F21D56
+ *#F21B6A
+ *#F2F2F2
+ *#8C8C8C
+ *#404040
  */
 
 /* html, body {
@@ -147,3 +147,21 @@ span {
   .sidenav a {font-size: 18px;}
 } */
 
+html {
+	box-sizing: border-box;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Kavivanar', cursive;
+    font-weight: normal;
+}
+footer {
+	border-top: 1px solid #CAFAFE;
+}
